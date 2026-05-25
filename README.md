@@ -57,11 +57,18 @@ Currently at **Synthetify Labs**, where I lead frontend development for product 
 
 ### Nightly Extension
 
+<img src="./assets/nightly-extension-home.png" alt="Nightly Extension home screen" height="300" />
+
 Public Chrome and Firefox browser extension for cryptocurrency wallet management, assets, transactions, and blockchain integrations.
 
 - Led redesign work, new integrations, implementation priorities, and product-facing technical decisions
 - Balanced usability, security-sensitive UX, maintainability, and browser-extension platform constraints
-- Tech: React, TypeScript, Tailwind CSS, Bun
+
+**Tech:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1f2937?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![Bun](https://img.shields.io/badge/Bun-1f2937?style=flat&logo=bun&logoColor=FBF0DF)
 
 ### Nightly Mobile
 
@@ -69,7 +76,11 @@ Public Android and iOS cryptocurrency wallet for asset management and multichain
 
 - Coordinated development work, testing, release readiness, and implementation decisions
 - Worked across mobile wallet UX, product behavior, and multichain integration needs
-- Tech: React Native, TypeScript, Bun
+
+**Tech:**  
+![React Native](https://img.shields.io/badge/React_Native-1f2937?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript&logoColor=3178C6)
+![Bun](https://img.shields.io/badge/Bun-1f2937?style=flat&logo=bun&logoColor=FBF0DF)
 
 ### Synthetify
 
@@ -77,7 +88,10 @@ Frontend application for synthetic crypto asset borrowing and leverage flows.
 
 - Implemented product flows for borrowing and leverage
 - Worked on frontend delivery during the early product phase
-- Tech: React, TypeScript
+
+**Tech:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript&logoColor=3178C6)
 
 ## Experience
 
